@@ -1,5 +1,5 @@
 # Hello-World-Python
-My first python project!
+My first python repository!
 
 In this project, I have got:  
 helloworld.py - my first python file ever.  
