@@ -1,7 +1,7 @@
 # Learning Python
 My first python repository!
 
-In this project, I have got:  
+In this repository, I have got:  
 helloworld.py - my first python file ever.  
 tobfos.py - a drawing of my name in the terminal.  
 variables.py - playing with variables for the first time.  
