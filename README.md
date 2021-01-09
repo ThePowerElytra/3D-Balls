@@ -1,4 +1,4 @@
-# Learning-Python
+# Learning Python
 My first python repository!
 
 In this project, I have got:  
