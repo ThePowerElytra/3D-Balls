@@ -1,2 +1,3 @@
 name = input("What is your name: ")
-print("Welcome, " + name + "!")
+age = input("What is your age: ")
+print("Welcome, " + name + ", who is " + age + "!")
