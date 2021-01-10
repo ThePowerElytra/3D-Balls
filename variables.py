@@ -6,6 +6,6 @@ print(""+ me_name +" "+ was_here +" here")
 me_name = "tobfos"
 was_here ="was"
 was_here_q = True
-numbers = 1234567890.123456789
+number = 1234567890.123456789
 print(""+ me_name +" "+ was_here +" here")
-print("+ numbers +")
+print(number)
