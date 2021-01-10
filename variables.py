@@ -4,8 +4,8 @@ was_here_q = False
 print(""+ me_name +" "+ was_here +" here")
 
 me_name = "tobfos"
-was_here ="was"
+was_here = "was"
 was_here_q = True
 number = 1234567890.123456789
-print(""+ me_name +" "+ was_here +" here")
+print(""+ me_name + " " + was_here + " here")
 print(number)
