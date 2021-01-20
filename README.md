@@ -1,6 +1,8 @@
 # Learning Python
 My first python repository!
 
+tobfos2611, and ThePowerElytra learning Python!
+
 In this repository, I have got:  
 helloworld.py - my first python file ever.  
 tobfos.py - a drawing of my name in the terminal.  
