@@ -1,6 +1,5 @@
 # Learning Python
-
-tobfos2611, and ThePowerElytra using Python!
+tobfos2611, using Python!
 
 In this repository, I have got:  
 helloworld.py - hello world  
