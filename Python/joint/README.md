@@ -1,2 +1,2 @@
-#  Join Python
+# joint Python
 Us, using Python!
